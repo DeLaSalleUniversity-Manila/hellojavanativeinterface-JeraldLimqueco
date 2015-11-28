@@ -18,7 +18,7 @@ Getting Started
 
 Screenshots
 -----------
-![screenshot](screenshot.png)
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/hellojavanativeinterface-JeraldLimqueco/blob/master/HelloJNI/device-2015-11-28-145336.png)
 
 Support
 -------
