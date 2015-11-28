@@ -1,0 +1,12 @@
+-shared
+-Wl,-soname,libhello-jni.so
+-o
+"C:\\Users\\Jerald\\Desktop\\android codes\\HelloJNI\\app\\build\\intermediates\\binaries\\debug\\all\\obj\\mips\\libhello-jni.so"
+"C:\\Users\\Jerald\\Desktop\\android codes\\HelloJNI\\app\\build\\intermediates\\objectFiles\\mipsDebugAllHello-jniSharedLibrary\\hello-jniMainC\\7lcaqdkggampkovy34sjcj9qh\\hello-jni.o"
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+--sysroot=C:\\android-ndk-r10e/platforms/android-21/arch-mips
+-Wl,--build-id
+-no-canonical-prefixes
